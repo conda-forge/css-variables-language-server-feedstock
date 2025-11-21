@@ -1,5 +1,5 @@
 context:
-  version: 2.7.0
+  version: "2.7.2"
 
 package:
   name: css-variables-language-server
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://registry.npmjs.org/css-variables-language-server/-/css-variables-language-server-${{ version }}.tgz
-  sha256: 41374d1794eeb851a72a5064c168d7c64cf94377669152bb0b27ac67e8f4fba6
+  sha256: 2d79f7890f372b2d0e3301fb8f7b19daae73230639d186067ac32c82f619608f
 
 build:
   number: 0
